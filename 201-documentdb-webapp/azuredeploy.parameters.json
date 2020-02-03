@@ -3,10 +3,10 @@
 	"contentVersion": "1.0.0.0",
 	"parameters": {
 		"databaseAccountName": {
-			"value": "GEN-UNIQUE"
+			"value": "daxfohlthing"
 		},
 		"appSvcPlanName": {
-			"value": "GEN-UNIQUE"
+			"value": "daxfohlthing1"
 		},
 		"svcPlanSize": {
 			"value": "F1"
@@ -15,7 +15,7 @@
 			"value": "Free"
 		},
 		"webAppName": {
-			"value": "GEN-UNIQUE"
+			"value": "daxfohlthing2"
 		}
 	}
 }
